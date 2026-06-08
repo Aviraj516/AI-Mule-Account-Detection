@@ -1,0 +1,23 @@
+ACCOUNT INVESTIGATION REPORT
+==================================================
+
+Account Row : 9001
+
+Actual Label : MULE ACCOUNT
+Prediction   : MULE ACCOUNT
+
+Risk Score   : 99.98999786376953%
+Alert Level  : HIGH
+Result       : CORRECT
+
+TOP CONTRIBUTING FEATURES
+------------------------------
+1. F3912 (8.4118)
+2. F3484 (0.4532)
+3. F2686 (0.3616)
+4. F3898 (0.3533)
+5. F2486 (-0.2763)
+
+CONCLUSION
+------------------------------
+This account exhibits patterns similar to previously identified mule accounts. Immediate investigation recommended.
