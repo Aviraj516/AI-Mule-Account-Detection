@@ -1,5 +1,14 @@
 datasetlink
 https://drive.google.com/drive/folders/1ezx1TwpCc4RZwF7v5U0WNM6AQxpw7Dux?usp=sharing
+## Dataset
+
+Dataset Download:
+https://drive.google.com/...
+
+After downloading, place files in:
+
+data/raw/
+data/processed/
 # Mule Account Detection using Machine Learning and Explainable AI
 
 ## Overview
