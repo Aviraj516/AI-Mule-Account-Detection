@@ -106,6 +106,7 @@ The actual meaning of feature names is hidden for privacy reasons.
 
 # Repository Structure
 
+```text
 MULE-ACCOUNT-DETECTION
 │
 ├── data
@@ -158,9 +159,10 @@ MULE-ACCOUNT-DETECTION
 ├── requirements.txt
 └── README.md
 
----
 
-# Technologies Used
+```
+
+## Technologies Used
 
 * Python
 * Pandas
